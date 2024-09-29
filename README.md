@@ -30,9 +30,9 @@ Model creators can withdraw their earnings by clicking the “Withdraw Funds” 
 AI Model Marketplace is a dApp (decentralized application), which allows users to buy, sell and rate different AI models available on marketplace.
 
 ### Demo Screenshots
-![Purchase a Model](SCREENSHOTS\PurchaseModel-ezgif.com-video-to-gif-converter.gif)
-![Rate a Model](SCREENSHOTS\RateaModel-ezgif.com-video-to-gif-converter.gif)
-![Withdraw Funds](SCREENSHOTS\{3357FE6B-207A-4476-821D-91588ED6D1E3}.png)
+![Purchase a Model](SCREENSHOTS/{PurchaseModel-ezgif.com-video-to-gif-converter}.gif)
+![Rate a Model](SCREENSHOTS/{RateaModel-ezgif.com-video-to-gif-converter}.gif)
+![Withdraw Funds](SCREENSHOTS/{3357FE6B-207A-4476-821D-91588ED6D1E3}.png)
 
 ### Built With
 
@@ -86,8 +86,8 @@ truffle migrate --network development
 - Click on "Contracts" tab.
 - Input `truffle-config.js` file.
 - Save.
-![Connceting smart contract](SCREENSHOTS\{F34A1178-3BC3-461C-ACFA-E7F60BD2E013}.png)
-![Contract in Ganache](SCREENSHOTS\{D987BD9A-76C8-4BBF-A21F-D2660C8E27EB}.png)
+![Connceting smart contract](SCREENSHOTS/{F34A1178-3BC3-461C-ACFA-E7F60BD2E013}.png)
+![Contract in Ganache](SCREENSHOTS/{D987BD9A-76C8-4BBF-A21F-D2660C8E27EB}.png)
 
 
 6. **Run the frontend**:
