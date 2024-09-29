@@ -36,15 +36,13 @@ AI Model Marketplace is a dApp (decentralized application), which allows users t
 
 ### Built With
 
-* [![HTML][HTML]][[HTML-url](https://html.spec.whatwg.org/)]
-* [![CSS][css]][[css-url](https://www.w3.org/Style/CSS/)]
-* [![Ganache][Ganache]][[Ganache-url](https://archive.trufflesuite.com/ganache/)]
-* [![JavaScript][JavaScript]][[js-url](https://ecma-international.org/publications-and-standards/standards/ecma-262/)]
-* [![REMIX IDE][REMIX IDE]][[remix-url](https://remix.ethereum.org/)]
-* [![Open Zeppelin][Open Zeppelin]][[Open Zeppelin-url](https://wizard.openzeppelin.com/#custom)]
-* [![MetaMask][MataMask]][chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+* [HTML](https://html.spec.whatwg.org/)
+* [css](https://www.w3.org/Style/CSS/)
+* [Ganache](https://archive.trufflesuite.com/ganache/)
+* [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+* [REMIX IDE](https://remix.ethereum.org/)
+* [Open Zeppelin](https://wizard.openzeppelin.com/#custom)
+* [![MetaMask][MataMask]][MetaMask]
 
 ## Smart Contract Functions
 
