@@ -42,7 +42,7 @@ AI Model Marketplace is a dApp (decentralized application), which allows users t
 * [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 * [REMIX IDE](https://remix.ethereum.org/)
 * [Open Zeppelin](https://wizard.openzeppelin.com/#custom)
-* [![MetaMask][MataMask]][MetaMask]
+* [MetaMask]
 
 ## Smart Contract Functions
 
